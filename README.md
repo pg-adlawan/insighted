@@ -1,2 +1,0 @@
-# insighted
-Capstone Project
